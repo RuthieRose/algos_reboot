@@ -1,1 +1,5 @@
 ./DS_Store
+./pytest_cache
+./__pycache__/.
+./example/__pycache__/.
+./test/test_example/__pycache__/.
